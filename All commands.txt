@@ -1,0 +1,6 @@
+Install extensions
+C:\Users\Sathia\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+how to check python version ?
+    python --version
+how to install extensions ?
+    -m pip install pynput

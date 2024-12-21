@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Add program1"
+git push -u origin program1
